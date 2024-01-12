@@ -20,18 +20,21 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-006400.svg?style=for-the-badge&logo=VBA&logoColor=white)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
+### 📱:Контакты:
+[![Telegram Badge](https://img.shields.io/badge/Anton-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnGusDm)
+<div id="badges" align="left">
   <a href="https://hh.ru/resume/79bcaa59ff09ced3e50039ed1f363646474d74">
     <img src="https://img.shields.io/badge/HH.ru-red?style=for-the-badge&logo=hh.ru&logoColor=red" alt="LinkedIn Badge"/>  
   </a>
    <a href="https://antongusev111.github.io/My_portfolio/">
     <img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=hh.ru&logoColor=blue" alt="Youtube Badge"/>
-   </a>  
+   </a> 
+  <a href="https://t.me/AnGusDm">
+    <img src="https://img.shields.io/badge/Anton-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+   </a> 
 </div>
-<img src="https://komarev.com/ghpvc/?username=GusevADresume&style=flat-square&color=blue" alt=""/>
+
+
 
 <h1>
   Hello World
@@ -50,12 +53,4 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Anton-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnGusDm)
 
 - ---
-
-### :hammer_and_wrench: Languages and Tools :
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=GusevADresume&style=flat-square&color=blue" alt=""/>
