@@ -58,8 +58,8 @@
   - <a href="https://github.com/GusevADresume/work_project_sales_and_service">Инструмент обработки и контроля клиентских обращений</a>
   
 🗞️:Диплом
-  -
-  -
+  - <a href="https://github.com/GusevADresume/Diploma/blob/master/Диплом.jpg">Диплом</a>
+  - <a href="https://github.com/GusevADresume/Diploma/blob/master/Приложение%20к%20диплому.jpg">Приложение к диплому</a>
   
 
 
