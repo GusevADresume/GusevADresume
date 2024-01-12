@@ -39,28 +39,30 @@
   :man_technologist: Мои работы:
 </h3>
 
-👨‍🎓:Курсовые работы:
+👨‍🎓 Курсовые работы:
   - <a href="https://github.com/GusevADresume/Course_work_1">Курсовая работа Python</a> 
   - <a href="https://github.com/GusevADresume/JS_Course_work_1">Курсовая работа JS</a> 
   - <a href="https://github.com/GusevADresume/react_course_work">Курсовая работа React</a>
   - <a href="https://github.com/GusevADresume/graduate_work">Диплом</a>
 
-🐈‍⬛:pet-проекты:
+:octocat: pet-проекты:
   - <a href="https://github.com/GusevADresume/archMotoFront">Клон сайта ArchMotorcucle</a>
   - <a href="https://github.com/GusevADresume/archMotoFront">Программа блока управления на Arduino</a> 
 
-🧪: тестовые задачи:
+🧪 тестовые задачи:
   - <a href="https://github.com/GusevADresume/DeepPavlov_test_tasks">Тестовые задания DeepPavlov</a>
   - <a href="https://github.com/GusevADresume/Tetrika_test_tasks">Тестовые задания Tetrika</a> 
 
-👨‍💼:Рабочие проекты
+👨‍💼 Рабочие проекты
   - <a href="https://github.com/GusevADresume/TG_email_bot">TG email bot</a>
   - <a href="https://github.com/GusevADresume/work_project_sales_and_service">Инструмент обработки и контроля клиентских обращений</a>
   
-🗞️:Диплом
+🗞️ Диплом
   - <a href="https://github.com/GusevADresume/Diploma/blob/master/Диплом.jpg">Диплом</a>
   - <a href="https://github.com/GusevADresume/Diploma/blob/master/Приложение%20к%20диплому.jpg">Приложение к диплому</a>
   
+<br></br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusevADresume&hide_progress=true&theme=transparent)
 
 <img src="https://komarev.com/ghpvc/?username=GusevADresume&style=flat-square&color=blue" alt=""/>
