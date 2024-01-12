@@ -39,25 +39,28 @@
   :man_technologist: Мои работы:
 </h3>
 
-👨‍🎓:Курсовые работы
-  -
-  -
-  -
+👨‍🎓:Курсовые работы:
+  - <a href="https://github.com/GusevADresume/Course_work_1">Курсовая работа Python</a> 
+  - <a href="https://github.com/GusevADresume/JS_Course_work_1">Курсовая работа JS</a> 
+  - <a href="https://github.com/GusevADresume/react_course_work">Курсовая работа React</a>
+  - <a href="https://github.com/GusevADresume/graduate_work">Диплом</a>
 
-🐈‍⬛:pet-проекты
-  -
-  -
-  -
+🐈‍⬛:pet-проекты:
+  - <a href="https://github.com/GusevADresume/archMotoFront">Клон сайта ArchMotorcucle</a>
+  - <a href="https://github.com/GusevADresume/archMotoFront">Программа блока управления на Arduino</a> 
+
+🧪: тестовые задачи:
+  - <a href="https://github.com/GusevADresume/DeepPavlov_test_tasks">Тестовые задания DeepPavlov</a>
+  - <a href="https://github.com/GusevADresume/Tetrika_test_tasks">Тестовые задания Tetrika</a> 
 
 👨‍💼:Рабочие проекты
-  -
-  -
-  -
-
+  - <a href="https://github.com/GusevADresume/TG_email_bot">TG email bot</a>
+  - <a href="https://github.com/GusevADresume/work_project_sales_and_service">Инструмент обработки и контроля клиентских обращений</a>
+  
 🗞️:Диплом
   -
   -
-  -
+  
 
 
 <img src="https://komarev.com/ghpvc/?username=GusevADresume&style=flat-square&color=blue" alt=""/>
