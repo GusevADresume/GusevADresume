@@ -20,7 +20,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-006400.svg?style=for-the-badge&logo=VBA&logoColor=white)
 
-### 📱:Контакты:
+### 📱Контакты:
 <div id="badges" align="left">
   <a href="https://hh.ru/resume/79bcaa59ff09ced3e50039ed1f363646474d74">
     <img src="https://img.shields.io/badge/HH.ru-red?style=flat&logo=hh.ru&logoColor=red" alt="LinkedIn Badge"/>  
