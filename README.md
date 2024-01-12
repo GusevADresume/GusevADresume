@@ -23,10 +23,10 @@
 ### 📱:Контакты:
 <div id="badges" align="left">
   <a href="https://hh.ru/resume/79bcaa59ff09ced3e50039ed1f363646474d74">
-    <img src="https://img.shields.io/badge/HH.ru-red?style=for-the-badge&logo=hh.ru&logoColor=red" alt="LinkedIn Badge"/>  
+    <img src="https://img.shields.io/badge/HH.ru-red?style=flat&logo=hh.ru&logoColor=red" alt="LinkedIn Badge"/>  
   </a>
   <a href="https://antongusev111.github.io/My_portfolio/">
-    <img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=hh.ru&logoColor=blue" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/portfolio-white?style=flat&logo=hh.ru&logoColor=blue" alt="Youtube Badge"/>
   </a> 
   <a href="https://t.me/AnGusDm">
     <img src="https://img.shields.io/badge/Anton-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
@@ -46,7 +46,7 @@
   - <a href="https://github.com/GusevADresume/graduate_work">Диплом</a>
 
 :octocat: pet-проекты:
-  - <a href="https://github.com/GusevADresume/archMotoFront">Клон сайта ArchMotorcucle</a>
+  - <a href="https://github.com/GusevADresume/archMotoFront">Клон сайта Arch Motorcycle</a>
   - <a href="https://github.com/GusevADresume/archMotoFront">Программа блока управления на Arduino</a> 
 
 🧪 тестовые задачи:
