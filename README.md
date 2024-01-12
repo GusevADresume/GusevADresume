@@ -1,4 +1,26 @@
 <div id="header" align="center">
+  <h2>
+    Привет, меня зовут Антон и я full-stack разработчик на языках python и js
+  </h2>
+</div>
+
+### :hammer_and_wrench:Языки и инструменты:
+![Python](https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=Python&logoColor=yellow)
+![Django](https://img.shields.io/badge/Django-2E8B57?style=for-the-badge&logo=Django&logoColor=black)
+![FastApi](https://img.shields.io/badge/FastApi-2E8B57?style=for-the-badge&logo=FastApi&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-B8860B?style=for-the-badge&logo=SQLAlchemy&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4682B4?style=for-the-badge&logo=PostgreSQL&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23593d88.svg?style=for-the-badge&logo=Zustand&logoColor=white)
+![Html](https://img.shields.io/badge/Html-B8860B.svg?style=for-the-badge&logo=Html&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-006400.svg?style=for-the-badge&logo=VBA&logoColor=white)
+
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
