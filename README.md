@@ -43,7 +43,7 @@
   - <a href="https://github.com/GusevADresume/Course_work_1">Курсовая работа Python</a> 
   - <a href="https://github.com/GusevADresume/JS_Course_work_1">Курсовая работа JS</a> 
   - <a href="https://github.com/GusevADresume/react_course_work">Курсовая работа React</a>
-  - <a href="https://github.com/GusevADresume/graduate_work">Диплом</a>
+  - <a href="https://github.com/GusevADresume/graduate_work">Дипломная работа</a>
 
 :octocat: Pet-проекты:
   - <a href="https://github.com/GusevADresume/archMotoFront">Клон сайта Arch Motorcycle</a>
