@@ -47,6 +47,7 @@
 
 :octocat: Pet-проекты:
   - <a href="https://github.com/GusevADresume/archMotoFront">Клон сайта Arch Motorcycle</a>
+  - <a href="https://github.com/GusevADresume/bar_menu">Барное меню</a>
   - <a href="https://github.com/GusevADresume/archMotoFront">Программа блока управления на Arduino</a> 
 
 🧪 Тестовые задачи:
