@@ -45,11 +45,11 @@
   - <a href="https://github.com/GusevADresume/react_course_work">Курсовая работа React</a>
   - <a href="https://github.com/GusevADresume/graduate_work">Диплом</a>
 
-:octocat: pet-проекты:
+:octocat: Pet-проекты:
   - <a href="https://github.com/GusevADresume/archMotoFront">Клон сайта Arch Motorcycle</a>
   - <a href="https://github.com/GusevADresume/archMotoFront">Программа блока управления на Arduino</a> 
 
-🧪 тестовые задачи:
+🧪 Тестовые задачи:
   - <a href="https://github.com/GusevADresume/DeepPavlov_test_tasks">Тестовые задания DeepPavlov</a>
   - <a href="https://github.com/GusevADresume/Tetrika_test_tasks">Тестовые задания Tetrika</a> 
 
