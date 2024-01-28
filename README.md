@@ -39,6 +39,12 @@
   :man_technologist: Мои работы:
 </h3>
 
+👨‍💼 Рабочие проекты  
+  - <a href="https://github.com/GusevADresume/TG_email_bot">TG email bot</a>
+  - <a href="https://github.com/GusevADresume/photo_recognizer">Распознование объектов на фото</a>
+  - <a href="https://github.com/GusevADresume/Maintaining_orders">Инструмент обработки заказов</a>
+  - <a href="https://github.com/GusevADresume/work_project_sales_and_service">Инструмент обработки и контроля клиентских обращений</a>
+
 👨‍🎓 Курсовые работы:
   - <a href="https://github.com/GusevADresume/Course_work_1">Курсовая работа Python</a> 
   - <a href="https://github.com/GusevADresume/JS_Course_work_1">Курсовая работа JS</a> 
@@ -53,10 +59,6 @@
 🧪 Тестовые задачи:
   - <a href="https://github.com/GusevADresume/DeepPavlov_test_tasks">Тестовые задания DeepPavlov</a>
   - <a href="https://github.com/GusevADresume/Tetrika_test_tasks">Тестовые задания Tetrika</a> 
-
-👨‍💼 Рабочие проекты
-  - <a href="https://github.com/GusevADresume/TG_email_bot">TG email bot</a>
-  - <a href="https://github.com/GusevADresume/work_project_sales_and_service">Инструмент обработки и контроля клиентских обращений</a>
   
 🗞️ Диплом
   - <a href="https://github.com/GusevADresume/Diploma/blob/master/Диплом.jpg">Диплом</a>
