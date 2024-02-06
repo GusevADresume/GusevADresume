@@ -48,11 +48,11 @@
 👨‍🎓 Курсовые работы:
   - <a href="https://github.com/GusevADresume/Course_work_1">Курсовая работа Python</a> 
   - <a href="https://github.com/GusevADresume/JS_Course_work_1">Курсовая работа JS</a> 
-  - <a href="https://github.com/GusevADresume/react_course_work">Курсовая работа React</a> <a href="https://clck.ru/38b5hg">Развернутый проект</a>
-  - <a href="https://github.com/GusevADresume/graduate_work">Дипломная работа</a>  <a href="https://clck.ru/38b5oE">Развернутый проект</a>
+  - <a href="https://github.com/GusevADresume/react_course_work">Курсовая работа React</a> \``` <a href="https://clck.ru/38b5hg">Развернутый проект</a>\```
+  - <a href="https://github.com/GusevADresume/graduate_work">Дипломная работа</a> \``` <a href="https://clck.ru/38b5oE">Развернутый проект</a>\```
 
 :octocat: Pet-проекты:
-  - <a href="https://github.com/GusevADresume/archMotoFront">Клон сайта Arch Motorcycle</a> <a href="https://clck.ru/38b5fA">Развернутый проект</a>
+  - <a href="https://github.com/GusevADresume/archMotoFront">Клон сайта Arch Motorcycle</a> \``` <a href="https://clck.ru/38b5fA">Развернутый проект</a>\```
   - <a href="https://github.com/GusevADresume/bar_menu">Барное меню</a>  <a href="https://clck.ru/38b5kf">Развернутый проект</a>
   - <a href="https://github.com/GusevADresume/Home_project_moto_oiler">Программа блока управления на Arduino</a>  
 
