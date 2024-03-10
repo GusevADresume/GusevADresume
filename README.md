@@ -59,7 +59,7 @@
   - <a href="https://github.com/GusevADresume/Home_project_moto_oiler">Программа блока управления на Arduino</a>  
 
 🧪 Тестовые задачи:
-  - <a href="https://github.com/GusevADresume/ansara_test_task">Тестовые задания Ansara</a><a href="https://gusevadresume.github.io/ansara_test_task/">Развернутый проект</a>*
+  - <a href="https://github.com/GusevADresume/ansara_test_task">Тестовое задания Ansara</a>  -> *<a href="https://gusevadresume.github.io/ansara_test_task/">Развернутый проект</a>*
   - <a href="https://github.com/GusevADresume/DeepPavlov_test_tasks">Тестовые задания DeepPavlov</a>
   - <a href="https://github.com/GusevADresume/Tetrika_test_tasks">Тестовые задания Tetrika</a> 
   
